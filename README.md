@@ -5,7 +5,7 @@ With the theme of Artificial Intelligence, the assigned work was built to inform
 
 ~
 
-Um projeto de website feito em HTML, CSS e JS feito e colaborado na instituição técnica SENAC, a partir dos cursos gratuitos oferecidos datado no mesmo mês no envio deste repositório.
+Um projeto de um website feito em HTML, CSS e JS e colaborado na instituição técnica SENAC, a partir dos cursos gratuitos oferecidos datado no mesmo mês no envio deste repositório.
 
 <b>Intuito do Projeto:</b><br>
 Com o tema de Inteligência Artificial, o trabalho designado foi construído para informar o geral do que a Inteligência Artificial possa ter ao o que oferecer, desde suas eficiências, até seus problemas que podem de haver num futuro próximo. O intuito foi descrito de forma ampla, fácil de entender e visuais de interessar o público-alvo. (Todas as artes e fotos neste website foram feitas por uma IA).
